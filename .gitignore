@@ -18,8 +18,8 @@ outputs/catboost_info/
 
 # Large Model Files
 models/
-*.pkl
-*.joblib
+.pkl
+.joblib
 
 # Python & Jupyter Cache
 .ipynb_checkpoints/

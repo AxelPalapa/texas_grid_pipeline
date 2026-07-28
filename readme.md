@@ -11,7 +11,7 @@ Data source: [Catalyst Cooperative PUDL Dataset on Kaggle](https://www.kaggle.co
 
 ## 🌐 Live Interactive Dashboard
 
-👉 **[Click here to launch the Live Streamlit Dashboard]([https://your-app-name.streamlit.app](https://texasgridpipeline-mflusckyq9bzgjkxjmnxfu.streamlit.app))**
+👉 **[Click here to launch the Live Streamlit Dashboard]([https://texasgridpipeline-mflusckyq9bzgjkxjmnxfu.streamlit.app](https://texasgridpipeline-mflusckyq9bzgjkxjmnxfu.streamlit.app)**
 
 *Simulate weather anomalies, view critical plant leaderboards, and inspect model feature importance in real-time.*
 

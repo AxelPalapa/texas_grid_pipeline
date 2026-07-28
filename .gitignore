@@ -1,0 +1,27 @@
+# .gitignore
+
+# Security
+.env
+
+# Data Files (Ignore all raw and processed data)
+data/raw/
+data/processed/
+.csv
+
+# Databases (Ignore massive SQLite files)
+*.sqlite
+*.db
+
+# CatBoost Training Logs
+catboost_info/
+outputs/catboost_info/
+
+# Large Model Files
+models/
+*.pkl
+*.joblib
+
+# Python & Jupyter Cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
